@@ -348,8 +348,8 @@
   @media only screen and (min-width: 600px) {
     .iphone-container {
       display: flex;
-      justify-content: center; /* يضمن محاذاة الجوال والنص في الوسط */
-      align-items: center; /* يضمن محاذاة الجوال والنص في نفس المستوى العمودي */
+      justify-content: center; 
+      align-items: center; 
       grid-column: 1/3;
       padding-top: 50px;
     }
@@ -360,12 +360,12 @@
       flex-direction: column;
       text-align: left !important;
       font-size: 1em;
-      width: 40%; /* تعديل العرض ليكون متساويًا مع عرض الجوال */
-      margin-right: 20px; /* إضافة مسافة بين النص والجوال */
+      width: 40%; 
+      margin-right: 20px; 
     }
   
     .iphone-container img {
-      width: 40%; /* تعديل العرض ليكون متساويًا مع عرض النص */
+      width: 40%; 
     }
   }
   
