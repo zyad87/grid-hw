@@ -481,3 +481,17 @@ h3 {
     letter-spacing: 2.4px;
     margin-bottom: 10px;
 }
+.seventh-section{
+    position: relative;
+}
+small{
+    position: absolute;
+    background-color: #f05638;
+    top: 10px;
+    left: 10px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
